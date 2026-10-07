@@ -25,7 +25,7 @@ const projects = [
     title: "College Portal",
     description: "Portal for students and admins with role-based access.",
     tech: ["next.js", "Node.js", "MongoDB"],
-    live: "https://collage-portal-olive.vercel.app",
+    live: "https://collage-portal-rd9h.vercel.app/",
   },
   {
     kind: "Frontend",
